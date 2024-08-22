@@ -52,11 +52,11 @@ The installation may take several minutes. Once finished, retrieve the `spigot-X
 
 ## Configuration
 
-Create a `run.sh` file to run your server.
+Create a `start.sh` file to run your server.
 
 ```bash
-echo "java Xmx1024M -Xmx2048M -jar spigot-XX.jar" >> run.sh
-sudo chmod a+x run.sh
+echo "java Xmx1024M -Xmx2048M -jar spigot-XX.jar" >> start.sh
+sudo chmod a+x start.sh
 ```
 
 > [!NOTE]
@@ -72,7 +72,7 @@ sudo chmod a+x run.sh
 To initialize your server, run the following command:
 
 ```bash
-./run.sh
+./start.sh
 ```
 
 You will then get a message asking you to accept the EULA.
