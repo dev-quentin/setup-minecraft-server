@@ -11,6 +11,10 @@ Learn more about [setting up a server](https://minecraft.wiki/w/Tutorials/Settin
 - [Spigot](Spigot.md)
 - Paper *(Possibly in the future)*
 
+## 🔩 Plugins
+
+- [FastChunkPregenerator](FastChunkPregenerator.md)
+
 ## 🧐 Sources
 - [Spigot BuildTools](https://www.spigotmc.org/wiki/buildtools/)
 - [YouHaveTrouble minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization)
