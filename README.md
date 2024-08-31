@@ -9,7 +9,7 @@ Learn more about [setting up a server](https://minecraft.wiki/w/Tutorials/Settin
 ## 📌 Server Setup
 
 - [Spigot](Spigot.md)
-- Paper *(Possibly in the future)*
+- [Paper](Paper.md)
 
 ## 🔩 Plugins
 
